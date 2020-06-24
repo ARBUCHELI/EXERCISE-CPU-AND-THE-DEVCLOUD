@@ -192,4 +192,4 @@ In this step, we unpack the compressed file using <code>!tar zxf a</code> and re
 <code>!cat stdout.log</code>
 <code>!cat stderr.log</code>
 
-# Adaptation as a Repository: Andrés R. Bücheli.
+# Solution of the exercise and Adaptation as a Repository: Andrés R. Bücheli.
