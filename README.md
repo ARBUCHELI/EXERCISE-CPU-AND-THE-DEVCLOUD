@@ -1,6 +1,6 @@
 # EXERCISE-CPU-AND-THE-DEVCLOUD
 
-## Disclaimer: This exercise was Created by Intel Edge AI for IoT Developers UDACITY Nanodegree.  (Solution of the exercise and adaptation as a repository: Andrés R. Bücheli.)
+## Disclaimer: This exercise was Created by Intel Edge AI for IoT Developers UDACITY Nanodegree.  (Solution of the exercise and adaptation as a repository: Andrés R. Bucheli.)
 
 Requesting a CPU on Intel's DevCloud, loading a model, and  running inference on an image.
 
@@ -192,4 +192,4 @@ In this step, we unpack the compressed file using <code>!tar zxf a</code> and re
 <code>!cat stdout.log</code>
 <code>!cat stderr.log</code>
 
-# Solution of the exercise and adaptation as a Repository: Andrés R. Bücheli.
+# Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
